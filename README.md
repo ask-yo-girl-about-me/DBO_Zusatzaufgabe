@@ -19,13 +19,13 @@ https://git-scm.com/downloads
     file2branche1.txt
 
 ![Bild](/img/SNAG-00001.png)
+
 ![Bild](/img/SNAG-00002.png)
 
 
 ## Datei zur Versionskontrolle hinzufügen
 
     git add file1branche1.txt
-    git add file2branche1.txt
     git status
 
 ![Bild](/img/SNAG-0004.png)

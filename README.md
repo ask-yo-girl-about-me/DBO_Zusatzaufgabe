@@ -219,7 +219,7 @@ Nun funktioniert die ganze Synchronisation wieder erfoglreich.
 
 ![Bild](/img/SNAG-0024.png)
 
-# VisualStudioCode
+# VisualStudioCode als Allrounder
 
 Es gibt verschieden Software um mit Git zu arbeiten.
 

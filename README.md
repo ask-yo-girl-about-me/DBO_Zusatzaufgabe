@@ -184,3 +184,10 @@ Oben haben wir gesehen, wie man ein neuen Branche per Git Bash erstellt. Hier si
 
 ![Bild](/img/SNAG-0017.png)
 
+
+# Konflikt Behandlung
+
+Hier schauen wir noch die Konfliktbehandlung han. Dies wird mit dem Beispiel GitHub Webseite und GitHub Desktop APP nachgestellt.
+
+Ich werde auf der GitHub Seite eine Textdatei anpassen. Die gleiche Textdatei werde ich Lokal auf meinem PC ebenfalls anpassen und dann werden wir schauen was passiert.
+

@@ -8,7 +8,7 @@ https://git-scm.com/downloads
     mkdir DBO_Zusatzaufgabe
     git init
 
-    ![Bild](/img/SNAG-0000.png)
+![Bild](/img/SNAG-0000.png)
 
 # Im Repository arbeiten
 

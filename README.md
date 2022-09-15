@@ -155,3 +155,7 @@ Wenn dies installiert ist starten wird das Programm.
 ![Bild](/img/SNAG-0009.png)
 
 ![Bild](/img/SNAG-0010.png)
+
+![Bild](/img/SNAG-0011.png)
+
+![Bild](/img/SNAG-0012.png)

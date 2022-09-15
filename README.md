@@ -47,7 +47,7 @@ https://git-scm.com/downloads
     $ git checkout HEAD -- file1branche1.txt
     $ git status
 
-
+![Bild](/img/SNAG-0005.png)
 
 ## Änderungen in der Stage Area rückgängig machen
 

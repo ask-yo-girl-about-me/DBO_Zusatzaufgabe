@@ -146,7 +146,7 @@ Konflikte entstehen in der Regel dann, wenn zwei Personen dieselben Zeilen in ei
 Nun in den obigen Beispielen haben wir Lokal auf unserer Maschine mit GIT BASH gearbeitet.
 Wir werden dieses Repo nun mit GitHub verknüpfen.
 
-Dafür installieren wir uns die Desktop-APP von GitHub
+Dafür installieren wir uns die Desktop-APP von GitHub. Die Desktop APP vereinfacht das Arbeiten mit Repos. Durch die Desktop APP verfallen die ganze Befehle etc. Dies wird einfach durch das GUI vereinfacht und der User muss die Befehle für Git nicht selbst eingeben. Man kann die Commits, Push Pull etc. ganz einfach über die Web Konsole machen.
 
 [Download GitHub](https://desktop.github.com/)
 
@@ -191,3 +191,16 @@ Hier schauen wir noch die Konfliktbehandlung han. Dies wird mit dem Beispiel Git
 
 Ich werde auf der GitHub Seite eine Textdatei anpassen. Die gleiche Textdatei werde ich Lokal auf meinem PC ebenfalls anpassen und dann werden wir schauen was passiert.
 
+![Bild](/img/SNAG-0018.png)
+
+![Bild](/img/SNAG-0019.png)
+
+![Bild](/img/SNAG-0020.png)
+
+![Bild](/img/SNAG-0021.png)
+
+![Bild](/img/SNAG-0022.png)
+
+![Bild](/img/SNAG-0023.png)
+
+![Bild](/img/SNAG-0024.png)

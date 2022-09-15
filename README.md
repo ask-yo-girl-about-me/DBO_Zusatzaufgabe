@@ -18,9 +18,9 @@ https://git-scm.com/downloads
     file1branche1.txt
     file2branche1.txt
 
-![Bild](/img/SNAG-00001.png)
+![Bild](/img/SNAG-0001.png)
 
-![Bild](/img/SNAG-00002.png)
+![Bild](/img/SNAG-0002.png)
 
 
 ## Datei zur Versionskontrolle hinzufügen

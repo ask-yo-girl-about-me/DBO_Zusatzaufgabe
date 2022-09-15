@@ -24,6 +24,8 @@ Nun erstellen wir ein neues Verzeichnis:
 
 ![Bild](/img/SNAG-0000.png)
 
+---
+
 # 3. Im Repository arbeiten
 
 Erstellen eines Textfiles
@@ -83,6 +85,8 @@ Hier können wir änderungen welche schon gestaged wurden wieder rückgängig ma
 ## Um alles zu entfernen
     $ git reset
 
+---
+
 # 4. Branching
 
 In Git sind Branches Bestandteil deines alltäglichen Entwicklungsprozesses. Git-Branches sind quasi Verweise auf einen Snapshot deiner Änderungen. Wenn du ein neues Feature hinzufügen oder einen Fehler beheben möchtest, legst du einen neuen Branch an, der deine (großen oder kleinen) Änderungen enthält.
@@ -118,6 +122,8 @@ Befehl:
 
 ![Bild](/img/SNAG-0007.png)
 
+---
+
 # 5. MERGIN
 
 Mit git merge werden mehrere Commit-Abfolgen in einen einheitlichen Verlauf zusammengeführt. Vor allem wird git merge genutzt, um zwei Branches zu vereinen.
@@ -131,6 +137,19 @@ Mit git merge werden mehrere Commit-Abfolgen in einen einheitlichen Verlauf zusa
 
 Konflikte entstehen in der Regel dann, wenn zwei Personen dieselben Zeilen in einer Datei geändert haben oder ein Entwickler eine Datei löscht, während ein anderer Entwickler diese ändert. In diesen Fällen kann Git nicht automatisch entscheiden, welcher Vorgang richtig ist.
 
-# 6. Lokales GIT nun mit GIT-HUB verknüpfen
+---
 
+# 6. Lokales GIT nun mit GitHub verknüpfen
 
+Nun in den obigen Beispielen haben wir Lokal auf unserer Maschine mit GIT BASH gearbeitet.
+Wir werden dieses Repo nun mit GitHub verknüpfen.
+
+Dafür installieren wir uns die Desktop-APP von GitHub
+
+[Download GitHub](https://desktop.github.com/)
+
+Wenn dies installiert ist starten wird das Programm.
+
+![Bild](/img/SNAG-0009.png)
+
+![Bild](/img/SNAG-0010.png)

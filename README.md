@@ -18,23 +18,35 @@ https://git-scm.com/downloads
     file1branche1.txt
     file2branche1.txt
 
+![Bild](/img/SNAG-00001.png)
+![Bild](/img/SNAG-00002.png)
+
+
 ## Datei zur Versionskontrolle hinzufügen
 
     git add file1branche1.txt
     git add file2branche1.txt
     git status
 
+![Bild](/img/SNAG-0004.png)
+
 ## Die Dateien Commiten
     $ git commit -m "file1branche1.txt erstellt"
     $ git status
+
+![Bild](/img/SNAG-0005.png)
 
 ## Datei aus der Versionskontrolle wieder löschen
     $ git add file2branche1.txt
     $ git rm --cached file2branche1.txt
     $ git status
 
+![Bild](/img/SNAG-0006.png)
+
 ## Die Commit History
     $ git log
+
+![Bild](/img/SNAG-0007.png)
 
 ## Lokale Änderungen rückgängig machen
     $ git checkout HEAD -- file1branche1.txt

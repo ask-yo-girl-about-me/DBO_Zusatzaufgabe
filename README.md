@@ -150,7 +150,7 @@ Dafür installieren wir uns die Desktop-APP von GitHub
 
 [Download GitHub](https://desktop.github.com/)
 
-Wenn dies installiert ist starten wird das Programm.
+Wenn dies installiert ist starten wird das Programm und fügen das vorherig erstelle Reop zu GitHub hinzu. Dafür geht man wie folgt vor:
 
 ![Bild](/img/SNAG-0009.png)
 
@@ -159,3 +159,10 @@ Wenn dies installiert ist starten wird das Programm.
 ![Bild](/img/SNAG-0011.png)
 
 ![Bild](/img/SNAG-0012.png)
+
+Wenn dies erfolgreich durchlief, sieht man nun sein erstelles Repo auf GitHub.
+
+Dies sieht in meinem Falls so aus:
+
+[GitHub Repo von Leandro](https://github.com/ask-yo-girl-about-me/DBO_Zusatzaufgabe.git)
+

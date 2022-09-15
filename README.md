@@ -191,16 +191,30 @@ Hier schauen wir noch die Konfliktbehandlung han. Dies wird mit dem Beispiel Git
 
 Ich werde auf der GitHub Seite eine Textdatei anpassen. Die gleiche Textdatei werde ich Lokal auf meinem PC ebenfalls anpassen und dann werden wir schauen was passiert.
 
+Hier wird das Textfile auf der GitHub Seite angepasst und direkt gespeichert.
+
 ![Bild](/img/SNAG-0018.png)
+
+Hier wird nun ohne das man die änderungen schon sieht das File ebenfalls lokal auf dem Client angepasst
 
 ![Bild](/img/SNAG-0019.png)
 
+Nun wollen wir die änderungen auf dem Client commiten.
+
 ![Bild](/img/SNAG-0020.png)
+
+Nun kommt die Meldung, dass dieses File in der Zwischenzeit schon angepasst wurde.
 
 ![Bild](/img/SNAG-0021.png)
 
+Jetzt müssen wir die Konflikte beheben damit wir wieder weiterarbeiten können.
+
 ![Bild](/img/SNAG-0022.png)
 
+Ich habe nun das Textfile im Explorer geöffnet und sehe jetzt beide änderungen. Da es keine grosse verschiedenheit gibt, Akzeptiere ich den Merge.
+
 ![Bild](/img/SNAG-0023.png)
+
+Nun funktioniert die ganze Synchronisation wieder erfoglreich.
 
 ![Bild](/img/SNAG-0024.png)

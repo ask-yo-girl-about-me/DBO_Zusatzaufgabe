@@ -166,3 +166,21 @@ Dies sieht in meinem Falls so aus:
 
 [GitHub Repo von Leandro](https://github.com/ask-yo-girl-about-me/DBO_Zusatzaufgabe.git)
 
+## Dateien erstellen GitHub
+
+Man kan auch direkt auf der GitHub seite arbeiten. Hier wird gezeigt, wie man ein File erstellt.
+
+![Bild](/img/SNAG-0013.png)
+
+## Neuer Branche erstellen GitHub
+
+Oben haben wir gesehen, wie man ein neuen Branche per Git Bash erstellt. Hier sieht man wie dies übe die GitHub Seite funktioniert.
+
+![Bild](/img/SNAG-0014.png)
+
+![Bild](/img/SNAG-0015.png)
+
+![Bild](/img/SNAG-0016.png)
+
+![Bild](/img/SNAG-0017.png)
+

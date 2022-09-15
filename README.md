@@ -1,5 +1,7 @@
 # 1. Installation GIT Bash
 
+Um mit GIT auf einem Windwos Client zu arbeiten müssen wir folgende Software installieren. Mit dieser Software wird in den nächsten Schritten gearbeitet.
+
 [Download Git Bash](https://git-scm.com/downloads)
 
 ---

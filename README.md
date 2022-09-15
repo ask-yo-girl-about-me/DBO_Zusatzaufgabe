@@ -66,6 +66,18 @@ Listet die Commits auf, die über die übergeordneten Links von den angegebenen 
 
 ![Bild](/img/SNAG-0003.png)
 
+## Dateien aus dem Repository wiederherstellen
+
+Hier muss man die Commit ID angeben zu der man zurückgreifen will.
+
+Hier ein Beispiel: 
+
+    $ git checkout 323EFG
+
+![Bild](/img/SNAG-0026.png)
+
+![Bild](/img/SNAG-0027.png)
+
 ## Lokale Änderungen rückgängig machen
 
 Hier ändern wir das file1branche1.txt Lokal auf unserem Computer. Danach machen wir über das GIT CMD diese änderung rückgängig. Nach dem wir diesen Befehl eingegeben haben darf unsere Änderung nicht mehr sichbar sein.

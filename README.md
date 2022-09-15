@@ -218,3 +218,13 @@ Ich habe nun das Textfile im Explorer geöffnet und sehe jetzt beide änderungen
 Nun funktioniert die ganze Synchronisation wieder erfoglreich.
 
 ![Bild](/img/SNAG-0024.png)
+
+# VisualStudioCode
+
+Es gibt verschieden Software um mit Git zu arbeiten.
+
+VisualStudioCode ist ein Programm, die deine Arbeit mit Git direkt vereinfacht und zusammenführt.
+
+Man kann direkt seine Files etc. anpassen und ohne Befehle auswenig lernen direkt aus dem Programm Push Pull und alle anderen Befehle ebenfalls machen.
+
+![Bild](/img/SNAG-0025.png)
